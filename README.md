@@ -60,4 +60,4 @@ Example input:
 
 ## Epidemia (*Epidemic*)
 
-[Click to see the assignment. (In Polish)](Epidemia/treść.txt)
+[Click to see the assignment. (In Polish)](Epidemia/treść.md)
